@@ -16,7 +16,7 @@ The “study,” quotes, and some examples below are included for entertainment.
 ---
 
 ## TL;DR (for the TL;DR crowd)
-This is mostly a joke — but also not entirely wrong. Drop `prompt.md` into your agent and witness the chaos reduce (slightly).
+This is mostly a joke — but also not entirely wrong. Drop [`prompt.md`](prompt.md) into your agent and witness the chaos reduce (slightly).
 
 ---
 
@@ -33,7 +33,7 @@ Read the full [manifesto](https://antonarhipov.github.io/agents-manifesto)
 
 ### Methods 
 - Population: 3,141 simulated agents (and a few interns for supervision).
-- Intervention: Teams were asked to paste `AGENTS.md` into a prompt context, or to ignore it and continue living recklessly.
+- Intervention: Teams were asked to paste [`prompt.md`](prompt.md) into a prompt context, or to ignore it and continue living recklessly.
 - Measurement: Self-reported number of "confident hallucinations," frequency of "please confirm" checks, and number of times the agent attempted to refactor production during lunch.
 - Analysis: Descriptive, performed on a napkin.
 
@@ -53,7 +53,7 @@ Read the full [manifesto](https://antonarhipov.github.io/agents-manifesto)
 ---
 
 ## How to use 
-1. Start with `prompt.md`, modify the task description  
+1. Start with [`prompt.md`](prompt.md), modify the task description  
 2. Use the manifesto as a human-facing guideline and a sanity-check in prompts.  
 3. Read outputs, add tests, and keep humans in loops for risky actions.
 
