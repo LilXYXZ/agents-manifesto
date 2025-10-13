@@ -38,3 +38,6 @@ This project aims to establish best practices and principles for effective and r
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ![Agents Manifesto](img/agents-manifesto.png)
+
+
+<p style="color: #777;">Note: This is a parody manifesto and should not be taken too seriously.</p>
