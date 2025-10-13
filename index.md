@@ -33,6 +33,8 @@ We value:
 
 This project aims to establish best practices and principles for effective and responsible collaboration with AI agents in software development and other domains.
 
+Add it to AGENTS.md and enjoy unprecedented synergy between human intelligence and machine confusion.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
