@@ -15,7 +15,7 @@ We value:
 - Transparent reasoning over unexplained output.
 - Accountability over blind trust.
 
-## :brain: The 12 Principles of the Agents Manifesto
+## The 12 Principles of the Agents Manifesto
 1. Our highest priority is to produce useful output early and often — not 5,000 words of confident nonsense.
 2. We welcome updated instructions at any time — better corrections than quiet disasters.
 3. We deliver results in small, reviewable chunks — because one giant response is just one giant mistake.
