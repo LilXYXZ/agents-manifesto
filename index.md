@@ -33,7 +33,10 @@ We value:
 
 This project aims to establish best practices and principles for effective and responsible collaboration with AI agents in software development and other domains.
 
-Add it to AGENTS.md and enjoy unprecedented synergy between human intelligence and machine confusion.
+Add it to AGENTS.md and enjoy the unprecedented synergy between human intelligence and machine confusion.
+
+On a more serious note [`prompt.md`](prompt.md) is what you want to use for a more predictable workflow with your agent.
+
 
 ## About
 
