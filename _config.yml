@@ -1,0 +1,25 @@
+# Jekyll configuration for GitHub Pages
+title: The Agents Manifesto
+description: A set of principles for working with AI agents responsibly
+author: Anton Arhipov
+email: ""
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# GitHub Pages configuration
+url: "https://antonarhipov.github.io"
+baseurl: "/agents-manifesto"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .gitignore
