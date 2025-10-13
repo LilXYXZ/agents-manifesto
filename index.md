@@ -57,4 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Agents Manifesto](img/agents-manifesto.png)
 
 
-<p style="color: #777;">Note: This is a parody manifesto and should not be taken too seriously.</p>
+<p style="color: #777;">Disclaimer: This is a parody manifesto and should not be taken too seriously. Consult the projects <a href="README.md">README</a> for explanations.</p>
