@@ -29,11 +29,23 @@ We value:
 11. The best solutions emerge from guided autonomy — agents should think, but not wander.
 12. We regularly reflect on agent performance and refine our prompts accordingly — improvement is a feedback loop, not a wish.
 
-## About
+## How to use
 
 This project aims to establish best practices and principles for effective and responsible collaboration with AI agents in software development and other domains.
 
 Add it to AGENTS.md and enjoy unprecedented synergy between human intelligence and machine confusion.
+
+## About
+
+This is mostly a joke — but also not entirely wrong.
+
+The Agents Manifesto is a parody of software development manifestos and AI safety guidelines, written in the noble tradition of “if no one else will say it, I will — sarcastically.”
+
+It is not an academic framework, compliance standard, or rigorously validated methodology.
+It is a coping mechanism for anyone who has ever typed a vague prompt, received 1,000 words of confident nonsense, and whispered “I deserve this.”
+
+If you find it useful, great.
+If you find it offensive, you might be building Skynet.
 
 ## License
 
