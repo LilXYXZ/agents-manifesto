@@ -16,14 +16,14 @@ The “study,” quotes, and some examples below are included for entertainment.
 ---
 
 ## TL;DR (for the TL;DR crowd)
-This is mostly a joke — but also not entirely wrong. Drop the `AGENTS.md` into your project, read it aloud to your CI, have a laugh, and then actually review AI outputs like a responsible human.
+This is mostly a joke — but also not entirely wrong. Drop `prompt.md` into your agent and witness the chaos reduce (slightly).
 
 ---
 
 ## Quick summary
 **The Agents Manifesto** collects short, practical principles for working with AI agents responsibly—so they become collaborators instead of unsupervised chaos engines. It mixes sarcasm with useful guardrails and a few Asimov-inspired guard rails for dramatic effect.
 
-Read the full manifesto: [AGENTS.md](./index.md)
+Read the full [manifesto](https://antonarhipov.github.io/agents-manifesto)
 
 ---
 
@@ -44,7 +44,7 @@ Read the full manifesto: [AGENTS.md](./index.md)
 ---
 
 ## Engineers’ Reactions
-> “I added it to AGENTS.md and my assistant started asking for coffee breaks. 5/5.” — *Anonymous SRE*
+> “I added it to my project and my assistant started asking for coffee breaks. 5/5.” — *Anonymous SRE*
 
 > “Tried it in staging. Agent asked permission before running migrations. Heart warmed.” — *Someone professional*
 
@@ -53,8 +53,8 @@ Read the full manifesto: [AGENTS.md](./index.md)
 ---
 
 ## How to use 
-1. Copy `AGENTS.md` into your repo root.  
-2. Use the manifesto as a human-facing guideline and a sanity-check in prompts (for example: require "explain-then-act" for destructive operations).  
+1. Start with `prompt.md`, modify the task description  
+2. Use the manifesto as a human-facing guideline and a sanity-check in prompts.  
 3. Read outputs, add tests, and keep humans in loops for risky actions.
 
 ## Further reading (actual)
