@@ -3,6 +3,12 @@ layout: home
 title: Home
 ---
 
+<div class="star-banner" style="background:#fffbe6;border:1px solid #ffe58f;padding:12px 16px;border-radius:6px;margin:0 0 16px 0;">
+  <strong>⭐ Enjoying the Agents Manifesto?</strong>
+  Please support the project by giving it a star on
+  <a href="https://github.com/antonarhipov/agents-manifesto" target="_blank" rel="noopener noreferrer">GitHub</a>.
+</div>
+
 # The Agents Manifesto
 
 The Agents Manifesto is a set of principles for working with AI agents responsibly—so they become powerful collaborators instead of unsupervised chaos engines.
